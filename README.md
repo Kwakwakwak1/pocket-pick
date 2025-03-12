@@ -1,5 +1,4 @@
 # Pocket Pick (MCP Server)
-> See how we used AI Coding, Claude Code, and MCP to build this tool on the [@IndyDevDan youtube channel](https://youtu.be/d-SyGA0Avtw).
 
 As engineers we end up reusing ideas, patterns and code snippets all the time but keeping track of these snippets can be hard and remembering where you stored them can be even harder. What if the exact snippet or idea you were looking for was one prompt away?
 
@@ -22,7 +21,7 @@ Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 ```bash
 # Clone the repository
-git clone https://github.com/indydevdan/pocket-pick.git
+git clone https://github.com/Kwakwakwak1/pocket-pick.git
 cd pocket-pick
 
 # Install dependencies
@@ -194,5 +193,5 @@ claude mcp add http-fetch -- uvx mcp-server-fetch
 
 ---
 
-Built with ❤️ by [IndyDevDan](https://www.youtube.com/@indydevdan) with [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), and [Principled AI Coding](https://agenticengineer.com/principled-ai-coding)
+Built with [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview), 
 
